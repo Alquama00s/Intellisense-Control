@@ -1,0 +1,10 @@
+{
+
+    "editor.quickSuggestions": false,
+
+    "editor.parameterHints": false,
+
+    "editor.suggestOnTriggerCharacters": false,
+
+    "editor.acceptSuggestionOnEnter": "off"
+}
